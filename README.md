@@ -1,8 +1,10 @@
+<img width="119" alt="Screen Shot 2022-07-12 at 7 37 57 PM" src="https://user-images.githubusercontent.com/98551893/235286965-77ef4644-7677-43e5-9e43-d788ba7c9108.png">
 <h1>Hi, I'm Tara 👋</h1>
 I'm a web developer with experience designing, developing, and maintaining user-friendly websites and applications for clients across various industries. I'm proficient in a wide range of programming languages, frameworks, and software, including HTML, CSS, JavaScript, React.js, Node.js, ASP.NET, Webflow and Wordpress.
 <h3>💻 Technical Skills</h3>
 <b>Programming Languages: </b>
 <br>
+
 <br>
 <div style="display: flex; flex-direction: coloum">
   <img width="50" alt="html" src="https://user-images.githubusercontent.com/98551893/235284825-1a0cefb9-ec29-4583-b6b9-c56c1a32ef82.png">
