@@ -56,7 +56,7 @@ Bachelor of Business Administration (BBA) | Jinwen University of Science and Tec
 <br>
 Email: Taralai@outlook.com
 <br>
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taralai0626/)
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/taralai0626/)
 
 
 <!---
