@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tara 👋</h1>
-<h2>I'm a web developer with experience designing, developing, and maintaining user-friendly websites and applications for clients across various industries. I'm proficient in a wide range of programming languages, frameworks, and software, including HTML, CSS, JavaScript, React.js, Node.js, ASP.NET, Webflow and Wordpress.</h2>
+I'm a web developer with experience designing, developing, and maintaining user-friendly websites and applications for clients across various industries. I'm proficient in a wide range of programming languages, frameworks, and software, including HTML, CSS, JavaScript, React.js, Node.js, ASP.NET, Webflow and Wordpress.
 <h3>💻 Technical Skills</h3>
 <b>Programming Languages: </b>
 <br>
