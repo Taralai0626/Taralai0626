@@ -25,7 +25,6 @@
 <br>
 <b>Backend Frameworks:</b>
 <br>
-<br>  
 <div style="display: flex; flex-direction: coloum">
   <img width="60" alt="ASP net" src="https://user-images.githubusercontent.com/98551893/235285478-81fc4d41-d783-4740-8950-af1066838156.png">
   <img width="50" alt="Laravel" src="https://user-images.githubusercontent.com/98551893/235285506-e50bb5d5-f91b-49b6-92fa-482577bc3ee2.png">
@@ -34,7 +33,8 @@
 <div>
 <br>
 
-<b>AWS Cloud Services: </b>
+<b>AWS Cloud Services:</b>
+<br>
 <br>
 S3, Elastic Beanstalk, AWS Amplify, Route 53, Lambdas
 <br>
